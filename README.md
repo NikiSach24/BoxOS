@@ -17,5 +17,9 @@
   <li>
     Redphoenix
     <a href="https://github.com/timinside/" ><img height="15" src="https://raw.githubusercontent.com/NikiSach24/BoxOS/refs/heads/files/SocialNetworks/github.png" /></a>
+    <a href="https://www.youtube.com/@timinside/" ><img height="15" src="https://raw.githubusercontent.com/NikiSach24/BoxOS/refs/heads/files/SocialNetworks/youtube.png" /></a>
+  </li>
+  <li>
+    Sanek
   </li>
 </ul>
