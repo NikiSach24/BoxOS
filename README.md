@@ -1,9 +1,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NikiSach24/BoxOS/refs/heads/files/logo.png" />
-  
   # BoxOS
-  This is a custom build of Windows 7! (Original)
+  
+  <b>This is a custom build of Windows 7! (Original)</b>
 </div>
 
 
