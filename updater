@@ -1,0 +1,10 @@
+[requirements::64bit]
+CPU=1.5GHz::PAE::NX::SSE2
+architecture=64bit
+RAM=4GB
+memory=30GB
+DirectX=9
+WDDM=1.0
+BIOS
+
+[update::64bit]
