@@ -11,9 +11,11 @@
 
 <ul>
   <li>
-    <div>
-      NikiSach24
-      <img href="https://github.com/timinside"height="20" src="https://img.icons8.com/?size=256&id=xLUf9A2uno5L&format=png" />
-    </div>
+    NikiSach24
+    <a href="https://github.com/NikiSach24/" ><img height="15" src="https://raw.githubusercontent.com/NikiSach24/BoxOS/refs/heads/files/SocialNetworks/github.png" /></a>
+  </li>
+  <li>
+    Redphoenix
+    <a href="https://github.com/timinside/" ><img height="15" src="https://raw.githubusercontent.com/NikiSach24/BoxOS/refs/heads/files/SocialNetworks/github.png" /></a>
   </li>
 </ul>
