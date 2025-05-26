@@ -35,7 +35,7 @@ This is a computer build of <b>BoxOS</b> on <i>Windows 7 x64 Legacy Boot</i>! In
 
 ## Download
 
-You can download BoxOS on our <a href="nikisach24.github.io/BoxOS">website!</a><br>
-<b>Remember, responsibility is important!!!<b>
+You can download BoxOS on our <a href="nikisach24.github.io/BoxOS">website!</a><br><br>
+<b>We are not responsible for your device!!!<br>Remember, responsibility is important!!!<b>
 
 
