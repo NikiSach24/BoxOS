@@ -7,6 +7,11 @@
 </div>
 
 
+## About
+
+This is a computer build of <b>BoxOS</b> on <i>Windows 7 x64 Legacy Boot</i>! In this build, unnecessary <b>applications and services</b> are <i>cut out</i>. In this build, <i>many applications</i> are made on the <b>web platform and win32</b>. Also in this build, <b>blockers of bad software</b> and <b>antiviruses</b> are made.
+
+
 ## Developers
 
 <ul>
@@ -26,3 +31,6 @@
     Danik Lol Kek
   </li>
 </ul>
+
+
+
