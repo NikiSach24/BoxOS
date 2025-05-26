@@ -1,2 +1,2 @@
 # BoxOS
-This is a custom build of Windows 7! (Original)
+<h2>This is a custom build of Windows 7! (Original)<h2>
