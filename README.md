@@ -26,10 +26,10 @@ This is a computer build of <b>BoxOS</b> on <i>Windows 7 x64 Legacy Boot</i>! In
     <a href="https://www.youtube.com/@timinside/" ><img height="15" src="https://raw.githubusercontent.com/NikiSach24/BoxOS/refs/heads/files/SocialNetworks/youtube.png" /></a>
   </li>
   <li>
-    Sanek
+    Sasha
   </li>
   <li>
-    Danik Lol Kek
+    Noname_228
   </li>
 </ul>
 
